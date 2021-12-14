@@ -1,0 +1,36 @@
+/* image style */
+
+
+.image img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    
+   
+}
+
+/* single book cart style */
+.single-book {
+    padding: 10px;
+    transition: 0.6s;
+    box-shadow: 4px 4px 7px gray;
+    border-radius: 10px;
+    background-image: linear-gradient(black, #9198e5);
+    
+    
+   
+    
+  }
+  /* button style */
+  .btn{
+      border: none;
+      border-radius: 10px;
+      padding: 10px;
+     background-image: linear-gradient(rgb(202, 243, 20),red);
+  }
+
+  /* .text{
+      justify-content: center;
+      
+      
+  } */

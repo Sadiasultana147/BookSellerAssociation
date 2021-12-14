@@ -1,0 +1,32 @@
+/* full parent component Container */
+.booklist-container{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+   
+   
+}
+/* Book list container */
+
+.bookUi{
+    display: grid;
+    grid-template-columns: repeat(3 , 1fr);
+    grid-gap :20px;
+    margin: 20px;
+   
+   
+    
+    
+}
+body{
+    background-color: #838996;
+}
+/* Cart Container */
+.cart-container{
+   
+    margin-left: 10px;
+    margin-right: 10px;
+   
+}
+.total{
+    color:brown;
+}
